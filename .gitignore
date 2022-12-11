@@ -308,3 +308,5 @@ tools/**
 
 # OSX
 .DS_Store
+
+input.txt
