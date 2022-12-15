@@ -309,4 +309,5 @@ tools/**
 # OSX
 .DS_Store
 
+example.txt
 input.txt
